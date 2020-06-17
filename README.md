@@ -20,17 +20,17 @@
 
 [Google Презентация](https://docs.google.com/presentation/d/1Gept2NvvAFwhfupVF805XNfW965etK0B2VfuOhdZY7c/edit), [PDF]()
 
-2.4. [x] [Инструменты Git
+2.4. [x] Инструменты Git
 
 [Google Презентация](https://docs.google.com/presentation/d/148vlm0gDMI-fOkIKHZKmd_X5K9b6wv40WfPrMkX5woA/edit), [PDF]()
 
 ## Модуль 3. Основы системного администрировани
 
-3.1. [x] [Работа в терминале (лекция 1)
+3.1. [x] Работа в терминале (лекция 1)
 
 [Google Презентация](https://docs.google.com/presentation/d/1NLty9AgfdMUbx_iiNp1uykZpXxX2M6FvS7-0kY71Izs/edit), [PDF]()
 
-3.2. [x] [Работа в терминале (лекция 2)
+3.2. [x] Работа в терминале (лекция 2)
 
 [Google Презентация](https://docs.google.com/presentation/d/17-4LjOZlf8tBVyZoptEg-_gcU5bDS4nHdK3LFixytaA/edit), [PDF]()
 
