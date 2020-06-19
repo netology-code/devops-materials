@@ -18,6 +18,8 @@
 
 -----
 
+## Еще не готовы:
+
 2.3. [x] Ветвления в Git. Хранилища репозиториев
 
 [Google Презентация](https://docs.google.com/presentation/d/1Gept2NvvAFwhfupVF805XNfW965etK0B2VfuOhdZY7c/edit), [PDF]()
