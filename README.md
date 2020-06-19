@@ -4,17 +4,19 @@
 
 1.1. [x] Введение в DevOps
 
-[Google Презентация](https://docs.google.com/presentation/d/1yvZDqRs4_4RdC9n7tqsksMBLkRO2RH4gJ-inXjeG0BI/edit), [PDF]()
+[Google Презентация](https://docs.google.com/presentation/d/1yvZDqRs4_4RdC9n7tqsksMBLkRO2RH4gJ-inXjeG0BI/edit), [PDF](https://drive.google.com/file/d/1f9-u68A-Vin_P0GUbKQecrhNDkVEXEH2/view?usp=sharing)
 
 ## Модуль 2. Системы управления версиями
 
 2.1. [x] Системы контроля версий
 
-[Google Презентация](https://docs.google.com/presentation/d/1Aoo_obWQRUz-FVkoam1mnqXK0kwMil5lyqxjHveMPq4/edit), [PDF]()
+[Google Презентация](https://docs.google.com/presentation/d/1Aoo_obWQRUz-FVkoam1mnqXK0kwMil5lyqxjHveMPq4/edit), [PDF](https://drive.google.com/file/d/1ah2z02Wo1oDEmWiubT1xm0UflWK9UrI2/view?usp=sharing)
 
 2.2. [x] Основы Git
 
-[Google Презентация](https://docs.google.com/presentation/d/1cAfgY52E7YqpXosaIZFIFQna24pUZrpxtUSnraxKmJI/edit), [PDF]()
+[Google Презентация](https://docs.google.com/presentation/d/1cAfgY52E7YqpXosaIZFIFQna24pUZrpxtUSnraxKmJI/edit), [PDF](https://drive.google.com/file/d/1S2GoUBz-dldS7CyCqv5aWKAhHXkPPDlW/view?usp=sharing)
+
+-----
 
 2.3. [x] Ветвления в Git. Хранилища репозиториев
 
