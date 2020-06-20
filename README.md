@@ -16,11 +16,11 @@
 
 [Google Презентация](https://docs.google.com/presentation/d/1cAfgY52E7YqpXosaIZFIFQna24pUZrpxtUSnraxKmJI/edit), [PDF](https://drive.google.com/file/d/1S2GoUBz-dldS7CyCqv5aWKAhHXkPPDlW/view?usp=sharing)
 
------
-
 2.3. [x] Ветвления в Git. Хранилища репозиториев
 
-[Google Презентация](https://docs.google.com/presentation/d/1Gept2NvvAFwhfupVF805XNfW965etK0B2VfuOhdZY7c/edit), [PDF]()
+[Google Презентация](https://docs.google.com/presentation/d/1Gept2NvvAFwhfupVF805XNfW965etK0B2VfuOhdZY7c/edit), [PDF](https://drive.google.com/file/d/1XIFD5yWzQRP6Yy2D6Qr3XKHyj_xEfJAO/view?usp=sharing)
+
+-----
 
 2.4. [x] Инструменты Git
 
