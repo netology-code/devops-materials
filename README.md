@@ -9,6 +9,6 @@ vagrant:
   дистрибутивы: https://hashicorp-releases.yandexcloud.net/vagrant/
 ```
 ```
-vagrant:
+packer:
   дистрибутивы: https://hashicorp-releases.yandexcloud.net/packer/
 ```
