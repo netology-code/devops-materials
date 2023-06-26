@@ -3,7 +3,7 @@
 ### Terraform:  
 
   - [Дистрибутивы](https://releases.comcloud.xyz/terraform/)   
-  - [Документация провайдеров](https://registry.tfpla.net/browse/providers)   
+  - [Документация провайдеров](https://docs.comcloud.xyz/)   
   - [Инструкция по установке](https://cloud.yandex.ru/docs/tutorials/infrastructure-management/terraform-quickstart#install-terraform)
 
 ### [Vagrant](https://vagrant.comcloud.xyz/boxes/search)
