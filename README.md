@@ -6,11 +6,9 @@
   - [Документация провайдеров](https://registry.tfpla.net/browse/providers)   
   - [Инструкция по установке](https://cloud.yandex.ru/docs/tutorials/infrastructure-management/terraform-quickstart#install-terraform)
 
-### Vagrant  
+### [Vagrant](https://vagrant.comcloud.xyz/boxes/search)
 
-  - [Дистрибутивы](https://hashicorp-releases.yandexcloud.net/vagrant/)  
+### [Packer](https://packer.comcloud.xyz/)
 
-### Packer:  
-
-  - [Дистрибутивы](https://hashicorp-releases.yandexcloud.net/packer/)
+  
 
