@@ -19,7 +19,7 @@
 
 ### [Packer]
 
-- [Ссылка 1] (https://cloud.yandex.ru/docs/tutorials/infrastructure-management/packer-quickstart#install-packer)
+- [Ссылка 1](https://hashicorp-releases.yandexcloud.net/packer/)
 или   
 -  [Ссылка 2](https://packer.comcloud.xyz/)
 
