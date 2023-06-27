@@ -2,6 +2,12 @@
 
 ### Terraform:  
 
+  - [Дистрибутивы](https://hashicorp-releases.yandexcloud.net/terraform/)   
+  - [Документация провайдеров]()   
+  - [Инструкция по установке](https://cloud.yandex.ru/docs/tutorials/infrastructure-management/terraform-quickstart#configure-terraform)
+  
+или
+
   - [Дистрибутивы](https://releases.comcloud.xyz/terraform/)   
   - [Документация провайдеров](https://docs.comcloud.xyz/)   
   - [Инструкция по установке](https://registry.comcloud.xyz/)
