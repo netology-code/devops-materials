@@ -19,7 +19,7 @@
 
 ### [Packer]
 
-- [Ссылка 1](https://hashicorp-releases.yandexcloud.net/packer/)
+- [Ссылка 1](https://hashicorp-releases.yandexcloud.net/packer/)    
 или   
 -  [Ссылка 2](https://packer.comcloud.xyz/)
 
