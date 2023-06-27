@@ -17,7 +17,7 @@
   или   
 - [Дистрибутивы ссылка 2](https://vagrant.comcloud.xyz/boxes/search)
 
-### [Packer]
+### Packer
 
 - [Ссылка 1](https://hashicorp-releases.yandexcloud.net/packer/)    
 или   
