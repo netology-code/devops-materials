@@ -10,7 +10,7 @@
 
   - [Дистрибутивы](https://releases.comcloud.xyz/terraform/)   
   - [Документация провайдеров](https://docs.comcloud.xyz/)   
-  - [Инструкция по установке](https://registry.comcloud.xyz/)
+  - [Инструкция по установке](https://github.com/netology-code/devops-materials/blob/master/terraformregistry.md)
 
 ### Vagrant
 - [Дистрибутивы ссылка 1](https://hashicorp-releases.yandexcloud.net/vagrant/)    
