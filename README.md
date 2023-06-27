@@ -7,7 +7,7 @@
   - [Инструкция по установке](https://registry.comcloud.xyz/)
 
 ### Vagrant
-- [Дистрибутивы ссылка 1](https://hashicorp-releases.yandexcloud.net/vagrant/)
+- [Дистрибутивы ссылка 1](https://hashicorp-releases.yandexcloud.net/vagrant/)    
   или   
 - [Дистрибутивы ссылка 2](https://vagrant.comcloud.xyz/boxes/search)
 
