@@ -6,7 +6,9 @@
   - [Документация провайдеров](https://docs.comcloud.xyz/)   
   - [Инструкция по установке](https://registry.comcloud.xyz/)
 
-### [Vagrant](https://vagrant.comcloud.xyz/boxes/search)
+### Vagrant
+- [Дистрибутивы ссылка 1](https://hashicorp-releases.yandexcloud.net/vagrant/)
+- [Дистрибутивы ссылка 2](https://vagrant.comcloud.xyz/boxes/search)
 
 ### [Packer](https://packer.comcloud.xyz/)
 
