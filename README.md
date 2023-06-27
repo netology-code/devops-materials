@@ -3,7 +3,7 @@
 ### Terraform:  
 
   - [Дистрибутивы](https://hashicorp-releases.yandexcloud.net/terraform/)   
-  - [Документация провайдеров]()   
+  - [Документация провайдеров](https://registry.tfpla.net/browse/providers) - на данный момент недоступна  
   - [Инструкция по установке](https://cloud.yandex.ru/docs/tutorials/infrastructure-management/terraform-quickstart#configure-terraform)
   
 или
@@ -17,7 +17,11 @@
   или   
 - [Дистрибутивы ссылка 2](https://vagrant.comcloud.xyz/boxes/search)
 
-### [Packer](https://packer.comcloud.xyz/)
+### [Packer]
+
+- [Ссылка 1] (https://cloud.yandex.ru/docs/tutorials/infrastructure-management/packer-quickstart#install-packer)
+или   
+-  [Ссылка 2](https://packer.comcloud.xyz/)
 
   
 
