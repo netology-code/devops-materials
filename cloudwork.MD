@@ -20,6 +20,7 @@ Intel Ice Lake. RAM — прерываемые ВМ 100,80 ₽
 ![Alt text](relative%20econom-vm.png?raw=true "Экономичная ВМ")
 <img src="/econom-vm.png" alt="Alt text" title="Optional title">
 
+-------
 Так же можно попробовать использовать Процессор Broadwell с долей vCPU в 5% для выполнения домашних работ, не требующих высокой производительности. 
 
 ### Типичная конфигурация супер-эконом-ВМ
@@ -30,6 +31,6 @@ Intel Cascade Lake 2vCPU, fraction 5%, 1 Ram, 8Gb hdd, preemtible, public IP
 Intel Cascade Lake. 5% vCPU — прерываемые ВМ 144,00 ₽
 Intel Cascade Lake. RAM — прерываемые ВМ платформа v2 50,40 ₽ 
 Стандартное сетевое хранилище (HDD) 23,36 ₽  
-
+<img src="/super-econom-vm.png" alt="Alt text" title="Супер экономичная ВМ">
 
 Для Managed K8s сервиса вы так же можете использовать node group с прерываемыми ВМ, ограниченными по доле ЦПУ!!
