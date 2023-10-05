@@ -9,26 +9,25 @@
 - Выключайте ВМ после завершения сеанса обучения.
 
 ### Типичная конфигурация эконом-ВМ
-Intel Ice Lake 2vCPU, fraction 20%, 2 Ram, 10Gb hdd, preemtible, public IP
+Intel Ice Lake 2vCPU, fraction 20%, 2 Ram, 8Gb hdd, preemtible, public IP
 
-504,40 ₽ В МЕСЯЦ  
+498,56 ₽ В МЕСЯЦ  
 Тарифы и цены  
 Intel Ice Lake. 20% vCPU — прерываемые ВМ 201,60 ₽  
 Публичный IP-адрес 172,80 ₽  
 Intel Ice Lake. RAM — прерываемые ВМ 100,80 ₽  
-Стандартное сетевое хранилище (HDD) 29,20 ₽  
+Стандартное сетевое хранилище (HDD) 23,36 ₽ 
 
   
 Так же можно попробовать использовать Процессор Broadwell с долей vCPU в 5% для выполнения домашних работ, не требующих высокой производительности. 
 
 ### Типичная конфигурация супер-эконом-ВМ
-Intel Broadwell 2vCPU, fraction 5%, 1 Ram, 8Gb hdd, preemtible, public IP
+Intel Cascade Lake 2vCPU, fraction 5%, 1 Ram, 8Gb hdd, preemtible, public IP
 
-556,16 ₽ В МЕСЯЦ  
+390,56 ₽ В МЕСЯЦ  
 Тарифы и цены  
-Intel Broadwell. 5% vCPU — прерываемые ВМ 273,60 ₽  
-Публичный IP-адрес 172,80 ₽  
-Intel Broadwell. RAM — прерываемые ВМ 86,40 ₽  
+Intel Cascade Lake. 5% vCPU — прерываемые ВМ 144,00 ₽
+Intel Cascade Lake. RAM — прерываемые ВМ платформа v2 50,40 ₽ 
 Стандартное сетевое хранилище (HDD) 23,36 ₽  
 
 
