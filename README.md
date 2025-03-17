@@ -3,7 +3,6 @@
 ### Terraform:  
 
   - [Дистрибутивы](https://hashicorp-releases.yandexcloud.net/terraform/)   
-  - [Документация провайдеров](https://registry.tfpla.net/browse/providers) - на данный момент недоступна  
   - [Инструкция по установке](https://cloud.yandex.ru/docs/tutorials/infrastructure-management/terraform-quickstart#configure-terraform)
   
 или
